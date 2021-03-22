@@ -4,7 +4,7 @@ author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   
-  This site is for projects. 
+  Project 1: Coffee Consumption
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
